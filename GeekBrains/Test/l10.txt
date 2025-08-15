@@ -2,3 +2,4 @@
 rebase test
 Вторая попытка rebase
 Контрольная
+cherry-pick test
